@@ -1,0 +1,5 @@
+Sprawdzenie poprawności pliku "index.html":
+npx html-validate index.html
+
+Dla wszystkich plików .html:
+npx html-validate .
